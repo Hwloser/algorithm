@@ -41,3 +41,6 @@ tests/results
 tests/.ducktape
 tests/venv
 .cache
+
+# idea
+*.iml
